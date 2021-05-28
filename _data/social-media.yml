@@ -1,0 +1,29 @@
+email:
+  id: 'info@ananos.co.uk'
+  href: 'mailto:info@ananos.co.uk'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
+
+scholar:
+  id: 'user=oeH5z84AAAAJ'
+  href: 'https://scholar.google.com/citations?hl=en&'
+  title: 'Google Scholar'
+  fa-icon: 'fa-graduation-cap'
+
+twitter:
+  id: 'anan0s'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+
+github:
+  id: 'ananos'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square'
+
+facebook:
+  id: 'anastassiosnanos'
+  href: 'https://www.facebook.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-facebook-square'

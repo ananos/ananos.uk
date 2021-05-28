@@ -1,0 +1,29 @@
+title: Anastassios Nanos
+url: "https://ananos.co.uk"
+baseurl: ""
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: UA-1610214-7
+
+footer: yes
+footer_url: "https://github.com/ananos/ananos.github.io"
+footer_text: "This is a custom-built theme for Jekyll, based on <a href=\"https://github.com/ankitsultana/ankitsultana.github.io\">ankitsultana</a>'s."
+
+favicon: true
+favicon_location: "images/favicon.png"
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+nav:
+  - name: "About"
+    link: "/"
+  - name: "Short Bio"
+    link: "/short-bio"
+  - name: "Contact"
+    link: "/contact"
+
+
