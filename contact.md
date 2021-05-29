@@ -11,7 +11,7 @@ You can reach me via e-mail or social media at the following links:
 
 {% include social-media-links.html %}
 
-Or you can talk to me over Skype or Telephone:
+Or you can talk to me over Skype or Phone:
 
 <pre>
 Skype: tassos.nanos

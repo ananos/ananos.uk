@@ -14,12 +14,9 @@ layout: default
 
        <!-- <a href="{{ site.baseurl }}{{ post.url }}">-->
             <span>{{ post.company }} - {{ post.title }}</span>
-             <div style="text-align: right; font-family: monospace">
-                <small>{{ post.date | date: "%b %Y" }}
-		{%- if post.date_end -%}
- 		- {{ post.date_end | date: date_format }}
-		{%- endif -%}
-		</small>
+             <div style="text-align: left; font-weight:lighter; font-size:70%;">
+                <i>{{ post.date | date: "%b %Y" }}  &nbsp; {%- if post.date_end -%} &#8211; &nbsp;{{ post.date_end | date: date_format }} {%- endif -%}
+		</i>
             </div>
 
             <small>{{ post.content }}</small>
