@@ -12,7 +12,7 @@ href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.html">Server
 Computing</a>, <a href="http://unikernel.org/">Unikernels</a> and modern
 hypervisor design for low-power devices.
 
-More information is available on our <a
+More information is available in our <a
 href="https://archive.fosdem.org/2020/schedule/event/vai_lightweight_virt_at_the_edge/">FOSDEM
 2020 talk</a>.
 
