@@ -23,6 +23,8 @@ nav:
     link: "/"
   - name: "Short Bio"
     link: "/short-bio"
+  - name: "Resume"
+    link: "/ananos-cv-en-20210212.pdf"
   - name: "Contact"
     link: "/contact"
 
