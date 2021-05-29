@@ -25,8 +25,8 @@ href="https://www.ece.ntua.gr">ECE, NTUA</a> and a PhD in Computer Engineering
 (2013) from <a href="https://www.ntua.gr">NTUA</a>.
 
 I have been involved in the academic research community for quite some time,
-serving as an external referee for various CS-related conferences and
-scientific journals. Since 2011, I serve as a co-chair of the <a
+serving as TPC member or external referee for various CS-related conferences
+and scientific journals. Since 2011, I co-organize the <a
 href="https://vhpc.org">VHPC workshop series</a>, held in conjunction with
 Europar, SC, and ISC.
 

@@ -21,9 +21,9 @@ find more information about what I'm up to and how to contact me.
 {% for post in work_items limit:5 %}
     <li class="main-page-list">
         <h4>
-	<div style="display: inline-block; width:80px">
+	<div style="display: inline-block; width:40px">
             <span class="fa-stack fa-1x">
-              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+              <!-- <i class="fa fa-circle fa-stack-2x "></i>-->
               <i class="fa {{ post.icon }} fa-stack-1x fa-inverse"></i>
             </span>
 	</div>
