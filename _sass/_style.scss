@@ -20,8 +20,10 @@ html {
     height: 100%;
     margin: 0;
     padding: 0;
-    background-color: #fffff8;
-    // color: #fff;
+    //background-color: #eeeee8;
+    background-color: $bg;
+    //color: #444;
+    color: $fg;
 }
 body {
     margin: 0;

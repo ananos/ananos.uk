@@ -69,13 +69,34 @@
             }
         }
     }
+    .work-picture {
+        height: $image-size;
+        width: $image-size;
+        position: relative;
+        margin: -10px 15px 0 15px;
+        float: right;
+        border-radius: 50%;
+        p & {
+            padding: 0;
+            margin: 0;
+        }
+        @media (max-width: $small-width) {
+            img {
+                margin-top: -5px;
+            }
+        }
+    }
+    img {
+        text-align: center;
+        width: 100%;
+    }
     .profile-picture {
         height: $image-size;
         width: $image-size;
         position: relative;
-        margin: -10px 0 0 15px;
-        float: right;
-        border-radius: 50%;
+        margin: 0px 15px 0 15px;
+        float: left;
+        border-radius: 20%;
         p & {
             padding: 0;
             margin: 0;

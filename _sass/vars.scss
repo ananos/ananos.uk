@@ -2,11 +2,33 @@
  * Customization Variables
  */
 
-// $accent: #FF0F00;
+ //$accent: #FF0F00;
 // $accent: #d25203b8;
-// $accent: #d20303b8;
-$accent: #253a35e9;
+ $accent: #d20303b8;
+ $accent: #253a35e9;
 $image-size: 85px;
+$fg: #111111;
+$bg: #d2d3d3;
+$accent: $fg;
+$color1: #f5e7dd;
+$color2: #9bbabd;
+$color3: #51777c;
+$color4: #c4d5c4;
+$color5: #eeeeee;
+
+//$color1: #a26360;
+//$color2: #d4a29c;
+//$color3: #e8b298;
+//$color4: #edcc8b;
+//$color5: #bdd1c5;
+//$color6: #9daaa2;
+
+
+
+
+$bg: $color5;
+$fg: $color3;
+$accent: $color3;
 
 /*
  * Build Variables, don't touch

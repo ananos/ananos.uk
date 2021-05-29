@@ -22,6 +22,12 @@ github:
   title: 'GitHub'
   fa-icon: 'fa-github-square'
 
+linkedin:
+  id: 'ananos'
+  href: 'https://www.linkedin.com/in/'
+  title: 'LinkedIn'
+  fa-icon: 'fa-linkedin-square'
+
 facebook:
   id: 'anastassiosnanos'
   href: 'https://www.facebook.com/'
