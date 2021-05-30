@@ -6,14 +6,13 @@ layout: default
 
 <img class="profile-picture" src="gravatar.png">
 
-Hi! I am Anastassios Nanos and this is my personal web page. I'm an engineer,
-working on various levels of the systems software stack. In this space, you can
-find more information about what I'm up to and how to contact me.
+Hi! I am a systems engineer, working on various levels of the software stack.
+In this space, you can find more information about the projects I am currently
+working on and how to contact me.<br/>
 
 ---
 
-
-## Working on
+## Current projects
 
 <ul class="related-posts">
 
@@ -24,14 +23,14 @@ find more information about what I'm up to and how to contact me.
 	<div style="display: inline-block; width:40px">
             <span class="fa-stack fa-1x">
               <!-- <i class="fa fa-circle fa-stack-2x "></i>-->
-              <i class="fa {{ post.icon }} fa-stack-1x fa-inverse"></i>
+              <i class="fa {{ post.icon }} fa-stack-1x "></i>
             </span>
 	</div>
 
         <!--<a href="{{ post.url }}">
         </a>-->
             <span>{{ post.title }}</span>
-	<small>{{ post.content }}</small>
+	{{ post.content }}
             <!-- <small>by {{ post.author }}.</small>
             <small>published {{ post.year }}.</small>-->
         </h4>

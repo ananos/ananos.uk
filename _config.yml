@@ -9,7 +9,7 @@ tracking_id: UA-1610214-7
 
 footer: yes
 footer_url: "https://github.com/ananos/ananos.github.io"
-footer_text: "This is a custom-built theme for Jekyll, based on <a href=\"https://github.com/ankitsultana/ankitsultana.github.io\">ankitsultana</a>'s."
+footer_text: "&copy; 2021 Anastassios Nanos, based on <a class=\"footer\" style=\"text-decoration: none;\" href=\"https://github.com/ankitsultana/ankitsultana.github.io\">ankitsultana</a>."
 
 favicon: true
 favicon_location: "images/favicon.png"
